@@ -1,1 +1,22 @@
 green area switch logic:
+
+bio's playthrough:
+
+Oooh! that exit door from the first area is not supposed to open like that! The switch that triggered your first death is supposed to be the only way to open that door! 
+
+Fix #1...
+
+switch on marble platforn IS reachable from within the square. probably need to remove teleport line in front of switch, Perhaps make it more obvious that you teleport off at the edge.
+
+fix #2
+
+I see you found your way onto the goodies without going through the blue key door... That sould not happen.
+
+fix #3
+
+
+healtyh and goodies in baron closet at top
+
+fix #4
+
+You lot are so YOUNG!!!
